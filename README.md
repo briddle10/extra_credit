@@ -1,22 +1,16 @@
-# Extra Credit
+# Midterm
 
-This extra credit has a variable point value based on your Midterm grade. You have the opportunity to make up 50% of the points lost.  
+## Objective
+Create a page that links to your solution for each of the challenges found in [this collection](https://codepen.io/collection/XgkBzq/). Use the name of each challenge as the link. i.e. "2 columns" would link to the "2 columns" challenge. 
 
-> For example, if you missed 25 points on the Midterm, this extra credit is worth 12.5 points. 
+## Requirements 
+* Fork this repository and work from a clone on your local machine. (2.5pts) 
+* Proper [directory structure](https://s3-us-west-2.amazonaws.com/s.cdpn.io/35534/directory-structure.png) (5pts)
+* All links open in a new tab (2.5pts)
+* Remove link underline (2.5pts)
+* Add link hover state (2.5pts)
+* 1 Sans-Serif from Google Fonts (2.5pts)
+* 1 Serif from Google Fonts (2.5pts)
+* Submit Live Github Pages link to slack thread - i.e. username.github.io/midterm (5pts)
 
-If you got a perfect 50/50, then this extra credit is worth 10 points. 
 
-## Objective 
-
-Create a page that links to your solution for each of the seven challenges found in [this collection.](https://codepen.io/collection/XzMaOj/) Use the name of each challenge as the link. i.e. "Nav 1" would link to your "Nav 1" solution. 
-
-## Requirements
-* Your Name
-* Fork this repository and work from a clone on your local machine. 
-* Proper directory structure
-* All links open in a new tab 
-* Remove link underline
-* Add link hover state
-* 1 Sans-Serif from Google Fonts 
-* 1 Serif from Google Fonts 
-* Submit Live Github Pages link via Slack Direct Message to @Tyreil - i.e. username.github.io/final
